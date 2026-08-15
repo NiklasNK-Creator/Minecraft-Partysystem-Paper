@@ -3,7 +3,7 @@
 Ein ressourcenschonendes Partysystem-Plugin für Paper 1.20+.
 
 ## Anforderungen
-- Paper 1.20+ (mindestens 1.20.1)
+- Paper 1.20+, 1.21.x, 26.x (z.B. 26.1, 26.2)
 - Java 17
 
 ## Befehle
